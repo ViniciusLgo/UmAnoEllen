@@ -114,9 +114,58 @@ $(document).ready(function(){
 
             case "31/12/22": titulo = "31/12/22"; mensagem = "<p> Oh a virada de Ano agente junto, pq separo ia ser um erro sksksks!  </p>" ;break;
 
+            case "04/01/23": titulo = "04/01/23"; mensagem = "<p> Fomos no Shopping e nossa naquele dia, voçê como de costume estava radiante!  </p>" ;break;
+    
+            case "06/01/23": titulo = "06/01/23"; mensagem = "<p> Olha so a gente no Fulo!! rsrs eu adorei esse dia, nao foi o do casaco? eu sei que nao, foi no premium so n lembro o dia </p>" ;break;
+
+            case "07/01/23": titulo = "07/01/23"; mensagem = "<p> Olha so Aniversario de Caio e fomos para o Parque Shopping rsrs! </p>" ;break;
+
+            case "15/01/23": titulo = "15/01/23"; mensagem = "<p> Incontestavelmente o pior dia kkk, foi a pizza de Kayan que geral passou mal!!!! </p>" ;break;
+
+            case "24/01/23": titulo = "24/01/23"; mensagem = "<p> A gente foi ver e levou os meninos em o GATO DE BOTAS!!! NSS como eu adorei kkkk um otimo filme vc tem que concordar!!!!! </p>" ;break;
+
+            case "29/01/23": titulo = "29/01/23"; mensagem = "<p> Um dia de Sorvete na Inoocop, com uma carinha de fome rsrsr </p>" ;break;
+
+            case "04/02/23": titulo = "04/02/23"; mensagem = "<p> A GRANDE FESTA DE KET kkkkk, otimo dia, nunca mais ok? </p>" ;break;
+
+            case "18/02/23": titulo = "18/02/23"; mensagem = "<p> HUM estavamos em guarajuba, e estavamos no trem, foi um otimo drink, mas eu nao lembro o que a gente comeu kkk! </p>" ;break;
+
+            case "21/02/23": titulo = "21/02/23"; mensagem = "<p> A primeira vez que fomos e conheçemos a tia de Yas rsrsrs  </p>" ;break;
+
+            case "04/03/23": titulo = "04/03/23"; mensagem = "<p> Viva, IHUU parque de diversoes e fotos desajeitadas kkk asmei!  </p>" ;break;
+
+            case "05/03/23": titulo = "05/03/23"; mensagem = "<p> MEU ANIVERSARIO e parando para pensar kkk eu comecei a conhecer sua familia ksksks e vc tambem ganhou de lavada de mim no tiro de airsoft no shopping  </p>" ;break;
+
+            case "01/04/23": titulo = "01/04/23"; mensagem = "<p> AAA Fiz uma tattoo Nova kkk e voce bancou kkk esse dia foi louco ein e ela ta aqui ate hoje eu doido para fazer mais  </p>" ;break;
+
+            case "08/04/23": titulo = "08/04/23"; mensagem = "<p> Foi hamburguer na sua casa, com a galera toda, foi muito legal esse dia eu e Joao, fizemos a noite   </p>" ;break;
+
+            case "20/05/23": titulo = "20/05/23"; mensagem = "<p>  Vei nem acredito voce me levou para um festa, estavamos no Viiixe, que louco  </p>" ;break;
+
+            case "30/05/23": titulo = "30/05/23"; mensagem = "<p> Seu Aniversario, aaa foi dahora nao foi nao???? vamo repetir a dose!!!!  </p>" ;break;
+
+            case "30/05/23": titulo = "30/05/23"; mensagem = "<p> Seu Aniversario, aaa foi dahora nao foi nao???? vamo repetir a dose!!!! Te dei flores foi um dia e tanto neh rsrs  </p>" ;break;
+
+            case "03/06/23": titulo = "03/06/23"; mensagem = "<p> Comemoracao de verdade do s eu Aniversario, aaa foi dahora nao foi nao???? vamo repetir a dose!!!! Fomos para o Garage e enfim foi divertido, mitas emocoes e um rombo kkkk   </p>" ;break;
+
+            case "12/06/23": titulo = "12/06/23"; mensagem = "<p> E então chegou o dia dos namorados a coisa mais fofa do mundo com 6 doritos, chocolates e um quadro que tenhos até hoje!! </p>" ;break;
+
+            case "18/06/23": titulo = "18/06/23"; mensagem = "<p> Niver de Davi, foi um pao de alho top top top mto gostoso nossa amor temos que ir la de novo </p>" ;break;
+
+            case "04/07/23": titulo = "04/07/23"; mensagem = "<p> Eu nao sei, so que foi um role na sua casa, com a galera e estavamos combinando nossa estavamos muito muito muito bonitos juntos rsrs </p>" ;break;
+
+            case "06/07/23": titulo = "06/07/23"; mensagem = "<p> O pior dia para ti, eu ia partir para o CAPÂO kkk nss amor valeu a pena de mais! </p>" ;break;
+
+            case "12/08/23": titulo = "12/08/23"; mensagem = "<p> Mais um mes e eu so lembro de estar apagado de sono na sua cama kkk, nss esse dia foi uma longa tarde de sono </p>" ;break;
+
+            case "19/08/23": titulo = "19/08/23"; mensagem = "<p> Peguei a moto de Leo, nossa amor kkk foi uma aventura maluca, foi incrivel me marcou demais kk espero que a voce tambem!!! e paramos em guarajuba kkk </p>" ;break;
+
+            case "02/09/23": titulo = "02/09/23"; mensagem = "<p> E entao mesmo me tremendo eu fui conhecer sua familia kkkk, rapaz eu sou o cara viu kkk nao e por nada nao mas  ganhei eles, na verdade voce que ganhou na mega sena amor, por que homem como eu nao existe outro igual kkk </p>" ;break;
+
+            case "21/10/23": titulo = "21/10/23"; mensagem = "<p> E ja tao perto do fim, fomos tambem em um Show de Stand-Up Comedy!!! Foi muito incrivel, sem igual, serio rimos muito e foi a primeira vez que foi longe das telas do youtube </p>" ;break;
 
 
- 
+            
         }
 
         mostraPopUp(true, titulo, mensagem);
