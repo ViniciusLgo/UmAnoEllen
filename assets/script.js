@@ -112,7 +112,7 @@ $(document).ready(function(){
 
             case "22/12/22": titulo = "22/12/22"; mensagem = "<p> Comprei um relogio e to indo p SSA, depois a gente se fala sksksksk! </p>";break;
 
-            case "31/12/22": titulo = "31/12/22"; mensagem = "<p> Oh a virada de Ano agente junto, pq separo ia ser um erro sksksks!  </p>" ;break;
+            case "31/12/22": titulo = "31/12/22"; mensagem = "<p> Oh a virada de Ano agente junto, pq separado ia ser um erro sksksks!  </p>" ;break;
 
             case "04/01/23": titulo = "04/01/23"; mensagem = "<p> Fomos no Shopping e nossa naquele dia, voçê como de costume estava radiante!  </p>" ;break;
     
@@ -164,6 +164,12 @@ $(document).ready(function(){
 
             case "21/10/23": titulo = "21/10/23"; mensagem = "<p> E ja tao perto do fim, fomos tambem em um Show de Stand-Up Comedy!!! Foi muito incrivel, sem igual, serio rimos muito e foi a primeira vez que foi longe das telas do youtube </p>" ;break;
 
+            case "02/11/23": titulo = "02/11/23"; mensagem = "<p> E nesse ultimo mes fomos ver aquele filme maluco la de Five Night e depois no parque rsrs a gente se divertiu muito e nossa Allan passando mal foi loucura kkk </p>" ;break;
+
+            case "04/11/23": titulo = "04/11/23"; mensagem = "<p> AAAAA ESSE GRANDE DIA CHEGOU A GENTE FOI NO OUTBACK NSS, rsrs depois de uma luta rsrs. Eu amei amor todo o passeio, foi incrivel maravilhoso e cada momentinho cntg foi, é, e sempre será unico!!!!! </p>" ;break;
+
+            case "12/12/23": titulo = "12/12/23"; mensagem = "<p> UM ANO NAMORANDO❤️ </p>" ;break;
+
 
             
         }
@@ -191,7 +197,7 @@ const mostraPopUp = (mostrar, titulo = "Título de testes", mensagem = "Mensagem
         $(".container").css("opacity", "1");
 
         if(telaFinal){
-            $("#tela19").fadeOut(4000);
+            $("#tela19").fadeOut(400);
             setTimeout(() => {
                 $("#tela20").fadeIn(6500);
                 $("body").attr("class", "fundo6");    
