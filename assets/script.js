@@ -187,7 +187,7 @@ let telaFinal = false;
 const mostraPopUp = (mostrar, titulo = "Título de testes", mensagem = "Mensagem de teste...") =>{
 
     if(mostrar){
-        $("html, body").animate({ scrollTop: $(".pop-up")[0].offsetTop }, "smooth");
+        //$("html, body").animate({ scrollTop: $(".pop-up")[0].offsetTop }, "smooth");
         $(".pop-up").fadeIn(500);
         $(".pop-up h1").html(titulo);
         $(".pop-up div").html(mensagem);
